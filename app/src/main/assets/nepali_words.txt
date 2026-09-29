@@ -1,0 +1,80 @@
+# Nepali custom dictionary
+# Format: roman=देवनागरी
+# Lines starting with # are comments
+
+# Override built-in entries
+nepal=नेपाल
+kathmandu=काठमाडौं
+
+# Add new custom words
+pratigya=प्रतिज्ञा
+swatantrata=स्वतन्त्रता
+loktantra=लोकतन्त्र
+sambidhan=संविधान
+sarkar=सरकार
+adhyaksha=अध्यक्ष
+pradhanmantri=प्रधानमन्त्री
+rashtrapati=राष्ट्रपति
+sansad=संसद
+nyayalaya=न्यायालय
+
+# Education
+vidhyalaya=विद्यालय
+bidhyarthi=विद्यार्थी
+shikshak=शिक्षक
+siknu=सिक्नु
+padhnu=पढ्नु
+lekhnu=लेख्नु
+ganit=गणित
+vigyan=विज्ञान
+itihas=इतिहास
+
+# Health
+swasthya=स्वास्थ्य
+upachar=उपचार
+aspataal=अस्पताल
+daktar=डाक्टर
+nurse=नर्स
+ausadhi=औषधि
+
+# Common Verbs
+khannu=खन्नु
+hidnu=हिँड्नु
+daudinu=दौडिनु
+bolnu=बोल्नु
+sunnu=सुन्नु
+dekhnu=देख्नु
+
+# Tech & Modern
+mobile=मोबाइल
+phone=फोन
+computer=कम्प्युटर
+internet=इन्टरनेट
+website=वेबसाइट
+email=इमेल
+message=मेसेज
+
+# Nature & Weather
+mausam=मौसम
+badal=बादल
+barsha=वर्षा
+hawa=हावा
+aago=आगो
+dhunga=ढुङ्गा
+mato=माटो
+ghampani=घामपानी
+
+# Social & Misc
+samaj=समाज
+sanskriti=संस्कृति
+kripaya=कृपया
+maaf=माफ
+swagat=स्वागत
+shuvakamana=शुभकामना
+paisa=पैसा
+bazaar=बजार
+pasal=पसल
+grahak=ग्राहक
+mulya=मूल्य
+khetipati=खेतीपाती
+kisan=किसान

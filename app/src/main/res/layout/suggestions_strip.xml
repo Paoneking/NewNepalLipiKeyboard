@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2011 The Android Open Source Project
+    modified
+    SPDX-License-Identifier: Apache-2.0 AND GPL-3.0-only
+-->
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:id="@+id/suggestions_strip_wrapper"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hapticFeedbackEnabled="false"
+        android:soundEffectsEnabled="false">
+
+        <!-- Toolbar row — shown on top when expanded, gone by default -->
+        <HorizontalScrollView
+            android:id="@+id/toolbar_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbarThumbHorizontal="@color/toolbar_scrollbar"
+            android:visibility="gone"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <LinearLayout
+                android:id="@+id/toolbar"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                style="?attr/suggestionWordStyle" />
+
+        </HorizontalScrollView>
+
+        <!-- Transliteration composing bar: visible only when composing in transliteration mode -->
+        <LinearLayout
+            android:id="@+id/transliteration_composing_bar"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:paddingStart="12dp"
+            android:paddingEnd="4dp"
+            android:paddingTop="2dp"
+            android:paddingBottom="2dp"
+            style="?attr/suggestionWordStyle"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/transliteration_roman_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:textSize="12sp"
+                android:singleLine="true"
+                android:ellipsize="start" />
+
+            <TextView
+                android:id="@+id/transliteration_arrow_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" → "
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/transliteration_script_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="start"
+                android:textSize="14sp"
+                android:singleLine="true"
+                android:ellipsize="end" />
+
+            <TextView
+                android:id="@+id/transliteration_help_button"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:gravity="center"
+                android:text="?"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <!-- Suggestion strip row — always visible, fixed height -->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/config_suggestions_strip_height">
+
+            <ImageButton
+                android:id="@+id/suggestions_strip_toolbar_key"
+                android:layout_width="@dimen/config_suggestions_strip_edge_key_width"
+                android:layout_height="@dimen/config_suggestions_strip_edge_key_width"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="0"
+                android:layout_marginStart="1dp"
+                android:background="@drawable/toolbar_expand_key_background"
+                style="?attr/suggestionWordStyle"
+                android:contentDescription="@string/more_keys_strip_description" />
+
+            <LinearLayout
+                android:id="@+id/suggestions_strip"
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:hapticFeedbackEnabled="false"
+                android:soundEffectsEnabled="false" />
+
+            <LinearLayout
+                android:id="@+id/pinned_keys"
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:minWidth="0dp"
+                style="?attr/suggestionWordStyle" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</merge>
