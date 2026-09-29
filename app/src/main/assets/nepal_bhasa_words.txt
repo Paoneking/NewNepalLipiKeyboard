@@ -1,0 +1,25 @@
+# Nepal Bhasa (Newar) custom dictionary
+#
+# Format — one entry per line:
+#   roman=𑐣𑐾𑐰𑐵
+#   roman=𑐣𑐾𑐰𑐵:220        (optional :frequency, default 150)
+#
+# Lines starting with # are comments. Blank lines are ignored.
+# Keys are lowercased on load. Entries here OVERRIDE the built-in map in
+# NepalBhasaWordDictionary.kt, and are themselves overridden by words the
+# user teaches the keyboard (stored in nepal_bhasa_words_user.txt).
+#
+# Script: Newa / Nepal Lipi, Unicode block U+11400–U+1147F.
+#
+# ─────────────────────────────────────────────────────────────────────────
+# THIS FILE IS INTENTIONALLY EMPTY OF ENTRIES.
+#
+# The built-in map currently carries ~34 words, many of which are single
+# syllables mapped to a single glyph and read as placeholders rather than
+# real vocabulary. Populating this file requires a Nepal Bhasa speaker:
+# the romanisation scheme and the orthography both need a human decision,
+# and guessing them would put wrong words in front of users.
+#
+# To contribute: add lines in the format above. No code change is needed —
+# the file is read on subtype activation.
+# ─────────────────────────────────────────────────────────────────────────

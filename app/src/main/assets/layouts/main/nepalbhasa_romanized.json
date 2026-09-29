@@ -1,0 +1,128 @@
+[
+    [
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐛" },
+            "default": { "label": "𑐚" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐍" },
+            "default": { "label": "𑑁" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐿" },
+            "default": { "label": "𑐾" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐺" },
+            "default": { "label": "𑐬" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐠" },
+            "default": { "label": "𑐟" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐘" },
+            "default": { "label": "𑐫" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐹" },
+            "default": { "label": "𑐸" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐷" },
+            "default": { "label": "𑐶" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐌" },
+            "default": { "label": "𑑀" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐦" },
+            "default": { "label": "𑐥" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐃" },
+            "default": { "label": "𑐂" }
+        }
+    ],
+    [
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐁" },
+            "default": { "label": "𑐵" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐱" },
+            "default": { "label": "𑐳" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐢" },
+            "default": { "label": "𑐡" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐅" },
+            "default": { "label": "𑐄" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐑" },
+            "default": { "label": "𑐐" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐀" },
+            "default": { "label": "𑐴" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐗" },
+            "default": { "label": "𑐖" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐏" },
+            "default": { "label": "𑐎" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑑇" },
+            "default": { "label": "𑐮" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐋" },
+            "default": { "label": "𑐊" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑑅" },
+            "default": { "label": "𑑉" }
+        }
+    ],
+    [
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐆" },
+            "default": { "label": "𑐲" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐝" },
+            "default": { "label": "𑐜" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐕" },
+            "default": { "label": "𑐔" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑑃" },
+            "default": { "label": "𑐰" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐨" },
+            "default": { "label": "𑐧" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐞" },
+            "default": { "label": "𑐣" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑑄" },
+            "default": { "label": "𑐩" }
+        },
+        { "$": "shift_state_selector",
+            "manualOrLocked": { "label": "𑐒" },
+            "default": { "label": "𑑂" }
+        }
+    ]
+]
