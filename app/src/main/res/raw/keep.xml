@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Resource shrinking cannot see anything fetched with Resources.getIdentifier,
+    and this app fetches four families that way:
+
+      drawables   custom icon names, a user-chosen string mapped to any drawable
+                  (Settings.customIconIds)
+      label_*     key labels referenced from layout JSON (TextKeyData)
+      popup_keys_ / layout_ / theme_name_
+                  names resolved through getStringResourceOrName
+
+    Layout JSON can also name any string as "!string/<name>", so the string set
+    is kept broadly rather than by prefix alone. Without this the shrinker
+    removes them and the app loses icons and falls back to raw internal names.
+-->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/*,@string/label_*,@string/popup_keys_*,@string/layout_*,@string/theme_name_*"
+    tools:shrinkMode="safe" />
