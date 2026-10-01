@@ -1,0 +1,548 @@
+[
+  [
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐀"
+      },
+      "shiftedManual": {
+        "label": "𑐪"
+      },
+      "capsLock": {
+        "label": "𑐹"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐁"
+      },
+      "shiftedManual": {
+        "label": "𑐫"
+      },
+      "capsLock": {
+        "label": "𑐺"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐂"
+      },
+      "shiftedManual": {
+        "label": "𑐬"
+      },
+      "capsLock": {
+        "label": "𑐻"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐃"
+      },
+      "shiftedManual": {
+        "label": "𑐭"
+      },
+      "capsLock": {
+        "label": "𑐼"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐄"
+      },
+      "shiftedManual": {
+        "label": "𑐮"
+      },
+      "capsLock": {
+        "label": "𑐽"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐅"
+      },
+      "shiftedManual": {
+        "label": "𑐯"
+      },
+      "capsLock": {
+        "label": "𑐾"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐆"
+      },
+      "shiftedManual": {
+        "label": "𑐰"
+      },
+      "capsLock": {
+        "label": "𑐿"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐇"
+      },
+      "shiftedManual": {
+        "label": "𑐱"
+      },
+      "capsLock": {
+        "label": "𑑀"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐈"
+      },
+      "shiftedManual": {
+        "label": "𑐲"
+      },
+      "capsLock": {
+        "label": "𑑁"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐉"
+      },
+      "shiftedManual": {
+        "label": "𑐳"
+      },
+      "capsLock": {
+        "label": "𑑂"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐊"
+      },
+      "shiftedManual": {
+        "label": "𑐴"
+      },
+      "capsLock": {
+        "label": "𑑃"
+      }
+    }
+  ],
+  [
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐋"
+      },
+      "shiftedManual": {
+        "label": "𑐎𑑂𑐲",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑄"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐌"
+      },
+      "shiftedManual": {
+        "label": "𑐟𑑂𑐬",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑅"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐍"
+      },
+      "shiftedManual": {
+        "label": "𑐖𑑂𑐘",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑆"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐎"
+      },
+      "shiftedManual": {
+        "label": "𑐱𑑂𑐬",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑇"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐏"
+      },
+      "shiftedManual": {
+        "label": "𑐴𑑂𑐩",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑈"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐐"
+      },
+      "shiftedManual": {
+        "label": "𑐡𑑂𑐫",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑉"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐑"
+      },
+      "shiftedManual": {
+        "label": "𑐡𑑂",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑊"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐒"
+      },
+      "shiftedManual": {
+        "label": "𑐡𑑂𑐡",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑋"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐓"
+      },
+      "shiftedManual": {
+        "label": "𑐟𑑂𑐟",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑌"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐔"
+      },
+      "shiftedManual": {
+        "label": "𑐚𑑂𑐚",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑍"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐕"
+      },
+      "shiftedManual": {
+        "label": "𑐛𑑂𑐛",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑎"
+      }
+    }
+  ],
+  [
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐖"
+      },
+      "shiftedManual": {
+        "label": "𑐜𑑂𑐜",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑏"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐗"
+      },
+      "shiftedManual": {
+        "label": "𑐜𑑂𑐝",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑐"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐘"
+      },
+      "shiftedManual": {
+        "label": "𑐚𑑂𑐛",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑑"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐙"
+      },
+      "shiftedManual": {
+        "label": "𑐒𑑂",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑒"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐚"
+      },
+      "shiftedManual": {
+        "label": "𑐎𑑂",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑓"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐛"
+      },
+      "shiftedManual": {
+        "label": "𑐱𑑂𑐔",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑔"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐜"
+      },
+      "shiftedManual": {
+        "label": "𑐲𑑂𑐚",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑕"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐝"
+      },
+      "shiftedManual": {
+        "label": "𑐳𑑂𑐟",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑖"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐞"
+      },
+      "shiftedManual": {
+        "label": "𑐣𑑂𑐟",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑗"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐟"
+      },
+      "shiftedManual": {
+        "label": "𑐎𑑂𑐟",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑘"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐠"
+      },
+      "shiftedManual": {
+        "label": "𑐡𑑂𑐢",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑙"
+      }
+    }
+  ],
+  [
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐡"
+      },
+      "shiftedManual": {
+        "label": "𑐴𑑂𑐫",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑐘𑑂𑐖",
+        "labelFlags": 128
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐢"
+      },
+      "shiftedManual": {
+        "label": "𑐴𑑂𑐬",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑛"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐣"
+      },
+      "shiftedManual": {
+        "label": "𑐴𑑂",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑑝"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐤"
+      },
+      "shiftedManual": {
+        "label": "𑐒𑑂𑐐",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑐩𑑂𑐧",
+        "labelFlags": 128
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐥"
+      },
+      "shiftedManual": {
+        "label": "𑐮𑑂𑐮",
+        "labelFlags": 128
+      },
+      "capsLock": {
+        "label": "𑐞𑑂𑐜",
+        "labelFlags": 128
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐦"
+      },
+      "shiftedManual": {
+        "label": "𑐵"
+      },
+      "capsLock": {
+        "label": "𑐣𑑂𑐡",
+        "labelFlags": 128
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐧"
+      },
+      "shiftedManual": {
+        "label": "𑐶"
+      },
+      "capsLock": {
+        "label": "𑐣𑑂𑐣",
+        "labelFlags": 128
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐨"
+      },
+      "shiftedManual": {
+        "label": "𑐷"
+      },
+      "capsLock": {
+        "label": "𑐩𑑂𑐥",
+        "labelFlags": 128
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "default": {
+        "label": "𑐩"
+      },
+      "shiftedManual": {
+        "label": "𑐸"
+      },
+      "capsLock": {
+        "label": "𑐘𑑂𑐔",
+        "labelFlags": 128
+      }
+    }
+  ]
+]
