@@ -1,0 +1,51 @@
+Write Nepal Bhasa in its own script, on a keyboard you already know how to use.
+
+Nepal Lipi Keyboard converts what you type in Roman letters into Nepal Lipi — the
+Newa script — as you type. The layout stays familiar QWERTY. Type "newa" and the
+Newa spelling appears. Type "nepal" and you get नेपाल. A bar above the suggestion
+strip shows the conversion while you compose, so you can see the word forming
+before you commit it.
+
+It does the same for Nepali into Devanagari.
+
+
+TYPING IN NEPAL LIPI
+
+• Roman to Nepal Lipi (Newa, Unicode U+11400–U+1147F)
+• Roman to Devanagari for Nepali
+• Traditional direct-input layouts for both languages, if you'd rather type the
+  script itself
+• Devanagari hints under Newa suggestions, for readers more used to Devanagari
+• A built-in transliteration guide, showing every vowel, consonant, diacritic and
+  conjunct mapping
+• Dictionaries per language, with suggestions that learn from your corrections
+
+Seven keyboards are enabled on a fresh install: Nepalbhasa (Traditional),
+Nepalbhasa, Nepalbhasa (Transliteration), Nepali, Nepali (Traditional), Nepali
+(Transliteration) and English (US). Switch between them with the globe key.
+
+
+THE REST OF THE KEYBOARD
+
+Themes with custom colours, custom layouts, clipboard history, one-handed mode,
+split keyboard, a configurable toolbar, multilingual typing, and a personal
+dictionary you control.
+
+
+ABOUT SWIPE TYPING
+
+Swipe (glide) typing is not included, and we want you to know that before you
+install rather than after. The gesture decoder Android keyboards use for it is
+closed source and cannot be redistributed, so no build of this app can ship with
+it. Everything else — suggestions, autocorrect, transliteration — works without
+it. If you have the library already, the app can load it from Advanced settings.
+
+
+WHO MAKES THIS
+
+Nepal Lipi Keyboard is made by Callijatra Foundation, a youth-led initiative
+working to revive the Ranjana script, Nepal Lipi and the Nepal Bhasa language,
+supported by the Global Greengrants Fund.
+
+A script stays alive when people write in it every day. That is what this keyboard
+is for.

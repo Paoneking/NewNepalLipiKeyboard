@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Resource shrinking cannot see anything fetched with Resources.getIdentifier,
+    and this app fetches four families that way:
+
+      drawables   custom icon names, a user-chosen string mapped to any drawable
+                  (Settings.customIconIds)
+      label_*     key labels referenced from layout JSON (TextKeyData)
+      popup_keys_ / layout_ / theme_name_
+                  names resolved through getStringResourceOrName
+      toolbar keys  one string per ToolbarKey, named after it in lowercase
+                  (ToolbarUtils, the toolbar settings and the keys' TalkBack labels)
+
+    Layout JSON can also name any string as "!string/<name>", so the string set
+    is kept broadly rather than by prefix alone. Without this the shrinker
+    removes them and the app loses icons and falls back to raw internal names.
+-->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/*,@string/label_*,@string/popup_keys_*,@string/layout_*,@string/theme_name_*,
+        @string/voice,@string/clipboard,@string/numpad,@string/dpad,@string/undo,@string/redo,@string/settings,@string/select_all,@string/select_word,@string/copy,@string/cut,@string/paste,@string/one_handed,@string/floating,@string/split,@string/incognito,@string/autocorrect,@string/clear_clipboard,@string/close_history,@string/emoji,@string/left,@string/right,@string/up,@string/down,@string/word_left,@string/word_right,@string/page_up,@string/page_down,@string/full_left,@string/full_right,@string/page_start,@string/page_end,@string/background_gathering,@string/convert_script"
+    tools:shrinkMode="safe" />

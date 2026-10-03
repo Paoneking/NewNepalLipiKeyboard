@@ -1,0 +1,410 @@
+[
+  [
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐀𑑄",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐘"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐍"
+      },
+      "default": {
+        "label": "𑐑"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐀𑑅",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐒"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐌"
+      },
+      "default": {
+        "label": "𑐗"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐟𑑂𑐬",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐕"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐚𑑂𑐚",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐚"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐛𑑂𑐛",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐛"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐜𑑂𑐜",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐜"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐜𑑂𑐝",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐝"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐃"
+      },
+      "default": {
+        "label": "𑐞"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑑄"
+      },
+      "default": {
+        "label": "𑑂"
+      }
+    }
+  ],
+  [
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐜𑑂𑐝",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐢"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐋"
+      },
+      "default": {
+        "label": "𑐨"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐊"
+      },
+      "default": {
+        "label": "𑐔"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐟𑑂𑐟",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐟"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐛𑑂𑐛",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐠"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐖𑑂𑐘",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐐"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐎𑑂𑐲",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐲"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐂"
+      },
+      "default": {
+        "label": "𑐫"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐅"
+      },
+      "default": {
+        "label": "𑐄"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑑌"
+      },
+      "default": {
+        "label": "𑐺"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐿"
+      },
+      "default": {
+        "label": "𑐾"
+      }
+    }
+  ],
+  [
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐁"
+      },
+      "default": {
+        "label": "𑐧"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐒𑑂",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐎"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐜𑑂𑐜",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐩"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑑃"
+      },
+      "default": {
+        "label": "𑐵"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐡𑑂𑐡",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐣"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐱𑑂𑐬",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐖"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑑀"
+      },
+      "default": {
+        "label": "𑐰"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐦"
+      },
+      "default": {
+        "label": "𑐥"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐷"
+      },
+      "default": {
+        "label": "𑐶"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐚𑑂𑐛",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐳"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐹"
+      },
+      "default": {
+        "label": "𑐸"
+      }
+    }
+  ],
+  [
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐎𑑂",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐱"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐴𑑂𑐩",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐴"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐆"
+      },
+      "default": {
+        "label": "𑐀"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑑉"
+      },
+      "default": {
+        "label": "𑐏"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐡𑑂𑐰",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐡"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐡𑑂𑐫",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐮"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑑅"
+      },
+      "default": {
+        "label": "𑐦"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑑁"
+      },
+      "default": {
+        "label": "𑑀"
+      }
+    },
+    {
+      "$": "shift_state_selector",
+      "manualOrLocked": {
+        "label": "𑐬𑐹",
+        "labelFlags": 128
+      },
+      "default": {
+        "label": "𑐬"
+      }
+    }
+  ]
+]
